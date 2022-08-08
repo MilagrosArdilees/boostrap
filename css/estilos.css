@@ -1,0 +1,9 @@
+.fondoNav{
+    background-color: blueviolet;
+}
+
+.nav{
+    display: flex;
+    justify-content: end;
+    
+}
